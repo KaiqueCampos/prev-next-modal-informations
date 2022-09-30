@@ -1,0 +1,67 @@
+{
+    "data": [
+        {
+            "id": "Sun",
+            "name": "Sun",
+            "diameter": "1.392.700Km",
+            "distanceFromSun": "This is Sun!",
+            "description": "The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, heated to incandescence by nuclear fusion reactions in its core, radiating the energy mainly as visible light and infrared radiation."
+        },
+        {
+            "id": "Mercury",
+            "name": "Mercury",
+            "diameter": "4.879,4Km",
+            "distanceFromSun": "58.000.000Km",
+            "description": "Mercury is the smallest planet in our solar system. Along with Venus, Earth, and Mars, Mercury is one of the rocky planets. It has a solid surface that is covered with craters. It has no atmosphere, and it doesn't have any moons."
+        },
+        {
+            "id": "Venus",
+            "name": "Venus",
+            "diameter": "12.104Km",
+            "distanceFromSun": "67.000.000Km",
+            "description": "Venus is the second planet from the Sun. It is named after the Roman goddess of love and beauty. As the brightest natural object in Earth's night sky after the Moon, Venus can cast shadows and can be, on rare occasions, visible to the naked eye in broad daylight."
+        },
+        {
+            "id": "Earth",
+            "name": "Earth",
+            "diameter": "12.742Km",
+            "distanceFromSun": "146.600.000Km",
+            "description": "Our home planet Earth is a rocky, terrestrial planet. It has a solid and active surface with mountains, valleys, canyons, plains and so much more. Earth is special because it is an ocean planet. Water covers 70 percent of Earth's surface."
+        },
+        {
+            "id": "Mars",
+            "name": "Mars",
+            "diameter": "6.779Km",
+            "distanceFromSun": "149.600.000Km",
+            "description": "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. ... Mars is a terrestrial planet with a thin atmosphere, with surface features reminiscent of the impact craters of the Moon and the valleys, deserts and polar ice caps of Earth."
+        },
+        {
+            "id": "Jupter",
+            "name": "Jupter",
+            "diameter": "139.820Km",
+            "distanceFromSun": "778.000.000Km",
+            "description": "Jupiter is called a gas giant planet. Its atmosphere is made up of mostly hydrogen gas and helium gas, like the sun. The planet is covered in thick red, brown, yellow and white clouds. The clouds make the planet look like it has stripes."
+        },
+        {
+            "id": "Saturn",
+            "name": "Saturn",
+            "diameter": "58.232Km",
+            "distanceFromSun": "1.400.000.000Km",
+            "description": "Saturn is a gas giant made up mostly of hydrogen and helium. Saturn's volume is greater than 760 Earths, and it is the second most massive planet in the solar system, about 95 times Earth's mass. The Ringed Planet is the least dense of all the planets, and is the only one less dense than water"
+        },
+        {
+            "id": "Uranus",
+            "name": "Uranus",
+            "diameter": "50.724Km",
+            "distanceFromSun": "2.900.000.000Km",
+            "description": "Uranus is known as the “sideways planet” because it rotates on its side. Uranus was discovered in 1781 by William Herschel. Uranus was the first planet found using a telescope. Uranus is an Ice Giant planet and nearly four times larger than Earth."
+        },
+        {
+            "id": "Neptune",
+            "name": "Neptune",
+            "diameter": "49.244Km",
+            "distanceFromSun": "4.500.000.000Km",
+            "description": "Neptune is dark, cold, and very windy. It's the last of the planets in our solar system. It's more than 30 times as far from the Sun as Earth is. Neptune is very similar to Uranus."
+        }
+    ]
+}
